@@ -29,5 +29,6 @@ Dark mode
 ![Expense Added](images/Output2.png)
 
 Author
-Made by Nitish Narule 
+
+Nitish Narule 
 
