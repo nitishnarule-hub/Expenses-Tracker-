@@ -24,9 +24,9 @@ Dark mode
 
 ## Output Screenshots
 
-![Home Page](images/output1.png)
+![Home Page](images/Output1.png)
 
-![Expense Added](images/output2.png)
+![Expense Added](images/Output2.png)
 
 Author
 Made by Nitish Narule 
