@@ -27,8 +27,11 @@ This project was created to improve frontend development skills and practice DOM
 
 ## Future Improvements
 Add local storage support
+
 Expense categories
+
 Charts and analytics
+
 Dark mode
 
 ## Output Screenshots
